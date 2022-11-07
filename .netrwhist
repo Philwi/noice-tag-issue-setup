@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/oimel/Projects'
+let g:netrw_dirhist_1='/home/oimel/Projects/printworld'
+let g:netrw_dirhist_0='/home/oimel/Projects/dotfiles'
+let g:netrw_dirhist_9='/home/oimel/.config/nvim/general'
+let g:netrw_dirhist_8='/home/oimel/.config/nvim'
+let g:netrw_dirhist_7='/home/oimel/.config/nvim/mapping'
+let g:netrw_dirhist_6='/home/oimel/.config/nvim'
+let g:netrw_dirhist_5='/home/oimel/.config/nvim/mapping'
+let g:netrw_dirhist_4='/home/oimel/.config/nvim'
+let g:netrw_dirhist_3='/home/oimel/Projects/printworld'
